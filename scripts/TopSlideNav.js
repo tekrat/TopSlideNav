@@ -23,7 +23,6 @@ var TopSlideNav = {
 		var Holder = document.createElement('td');
 		Holder.setAttribute("align", "center");
 		Holder.setAttribute("valign", "bottom");
-		Holder.setAttribute("style", "padding:2px;");
 		Holder.setAttribute("width", TopSlideNav.iconsize);
 
 		var Link = document.createElement('a');
@@ -47,7 +46,6 @@ var TopSlideNav = {
 		var Holder = document.createElement('td');
 		Holder.setAttribute("align", "center");
 		Holder.setAttribute("valign", "top");
-		Holder.setAttribute("style", "padding:2px;");
 		Holder.setAttribute("width", TopSlideNav.iconsize);
 
 		var Link = document.createElement('a');
